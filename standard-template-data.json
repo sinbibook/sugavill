@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-11-06T11:01:30.462907065Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-11-06T11:09:49.777030802Z",
     "templateType": "trip_b",
     "propertyId": "cb43d297-2ea8-42be-9460-f9e7046bc1f9",
     "homepageId": "01a1ae0b-c5f9-78fc-a569-045cb7008a3a"
@@ -1758,7 +1758,7 @@
                 "description": ""
               },
               "closing": {
-                "title": "Memories of Sugavill Pension",
+                "title": "Memories",
                 "images": [
                   {
                     "id": "01a1ae0c-08bb-73c7-bbe7-8715ca642dab",
@@ -2347,8 +2347,18 @@
       },
       "theme": {
         "font": {
-          "koMain": null,
-          "koSub": null,
+          "koMain": {
+            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
+            "key": "pretendard",
+            "woff2": null,
+            "family": "Pretendard"
+          },
+          "koSub": {
+            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
+            "key": "pretendard",
+            "woff2": null,
+            "family": "Pretendard"
+          },
           "enMain": null
         },
         "color": null
