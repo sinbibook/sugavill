@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-11-06T10:45:20.170539323Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-11-06T11:01:30.462907065Z",
     "templateType": "trip_b",
     "propertyId": "cb43d297-2ea8-42be-9460-f9e7046bc1f9",
     "homepageId": "01a1ae0b-c5f9-78fc-a569-045cb7008a3a"
@@ -79,16 +79,16 @@
         "displayOrder": 1,
         "images": [
           {
-            "id": "01a1ae0b-b817-7ce6-8344-d1a42bcad160",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/bd9a9b78-2c1d-4bb2-ab31-b8ed0db5ccc0/main/1793921365373-mxxgpv90hi.webp",
+            "id": "01a1b083-e2bb-7d55-a365-c0a57379a3c5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/bd9a9b78-2c1d-4bb2-ab31-b8ed0db5ccc0/main/1793962795224-6j20q8es6g.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a1ae0b-bb25-748a-8eed-ca10763ab137",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/bd9a9b78-2c1d-4bb2-ab31-b8ed0db5ccc0/main/1793921366142-ilnpyifbnp.webp",
+            "id": "01a1b083-e1f7-7393-bda7-6d20bfb0250d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/bd9a9b78-2c1d-4bb2-ab31-b8ed0db5ccc0/main/1793962795224-nqme8g2tsy.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
@@ -236,7 +236,7 @@
           {
             "id": "01a1ae0b-bf93-7cdb-bb17-74af33fd0389",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/da12c1e1-eea8-41ad-b924-7242ed4fc6a4/main/1793921367121-lfhmyglhao.webp",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -244,7 +244,7 @@
           {
             "id": "01a1ae0b-bb9a-7bc1-b55f-b1645245b06f",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/da12c1e1-eea8-41ad-b924-7242ed4fc6a4/main/1793921366417-47q0vzznig.webp",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -252,7 +252,7 @@
           {
             "id": "01a1ae0b-bc4a-77ba-8819-318a18d7a741",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/da12c1e1-eea8-41ad-b924-7242ed4fc6a4/main/1793921366531-klilhf1xxs.webp",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -260,7 +260,7 @@
           {
             "id": "01a1ae0b-c0b0-79dc-a210-007a69855eea",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/da12c1e1-eea8-41ad-b924-7242ed4fc6a4/main/1793921367652-ufo93xgv6n.webp",
-            "sortOrder": 1,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -268,7 +268,7 @@
           {
             "id": "01a1ae0b-c0e4-7b74-927c-8c46a137bb54",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/da12c1e1-eea8-41ad-b924-7242ed4fc6a4/main/1793921367217-by5buud89y.webp",
-            "sortOrder": 1,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -276,7 +276,7 @@
           {
             "id": "01a1ae0b-c011-76ac-8ae0-1c676fd2ab81",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/da12c1e1-eea8-41ad-b924-7242ed4fc6a4/main/1793921367667-nhxzv2hyhz.webp",
-            "sortOrder": 2,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -284,7 +284,7 @@
           {
             "id": "01a1ae0b-bee2-77d4-8630-eae182a6a267",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/da12c1e1-eea8-41ad-b924-7242ed4fc6a4/main/1793921367229-cox8decvfe.webp",
-            "sortOrder": 2,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -292,7 +292,7 @@
           {
             "id": "01a1ae0b-bdb9-748e-b063-48d047c605d7",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/da12c1e1-eea8-41ad-b924-7242ed4fc6a4/main/1793921366729-f72h8wijix.webp",
-            "sortOrder": 2,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -300,7 +300,7 @@
           {
             "id": "01a1ae0b-be06-7f03-8744-d4d05ad21433",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/da12c1e1-eea8-41ad-b924-7242ed4fc6a4/main/1793921366938-y0olo2vl1u.webp",
-            "sortOrder": 3,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -308,7 +308,7 @@
           {
             "id": "01a1ae0b-c1aa-72d3-b649-a5a491e36c66",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/da12c1e1-eea8-41ad-b924-7242ed4fc6a4/main/1793921367923-57r5porvok.webp",
-            "sortOrder": 3,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -316,7 +316,7 @@
           {
             "id": "01a1ae0b-c151-711d-a7be-d17f2ec57afe",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/da12c1e1-eea8-41ad-b924-7242ed4fc6a4/main/1793921368033-3gn1fq33ak.webp",
-            "sortOrder": 4,
+            "sortOrder": 11,
             "description": "",
             "isSelected": true,
             "blockId": null
